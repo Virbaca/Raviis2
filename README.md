@@ -8,23 +8,23 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : _Raviis______
 
 **Autor(es)** __Ismael Bouhmidi Plaza, Rashid y Virginia Baca Medialdea____________
 
-**Resumen** : _________
+**Resumen** : __Somos un grupo que ha creado una plataforma para que la gente pueda ampliar su grupo de amistad y actividades. Este grupo pone en común a personas con gustos parecidos_______
 
 **logotipo** : ![Logotipo](https://github.com/ismaelplaza7/ideapolis/blob/main/logo.jpg)
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Conocerlo todo________
 
-**Hashtag**  ___
+**Hashtag**  #conocerlotodo___
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2021
+**Fecha** : 24/04/2023
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia): En Andalucía, Granada 
 
 
 *  :octocat: (github url) 
