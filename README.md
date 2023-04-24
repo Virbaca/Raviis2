@@ -10,7 +10,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Titulo** : _______
 
-**Autor(es)** ______________
+**Autor(es)** __Ismael Bouhmidi Plaza, Rashid y Virginia Baca Medialdea____________
 
 **Resumen** : _________
 
