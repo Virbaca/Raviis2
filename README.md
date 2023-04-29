@@ -10,7 +10,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 **Titulo** : _Raviis______
 
-**Autor(es)** __Ismael Bouhmidi Plaza, Rashid y Virginia Baca Medialdea____________
+**Autor(es)** __Ismael Bouhmidi Plaza, Rashid Rashed Ayyash y Virginia Baca Medialdea____________
 
 **Resumen** : __Somos un grupo que ha creado una plataforma para que la gente pueda ampliar su grupo de amistad y actividades. Este grupo pone en común a personas con gustos parecidos. En cuanto a fortalezas son la empatía, las habilidades sociales, la constancia y la disciplina._______
 
