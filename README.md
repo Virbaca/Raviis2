@@ -27,8 +27,8 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 **Medios** (donde se tiene presencia): En Andalucía, Granada 
 
 
-*  :octocat: (github url) 
-* Twitter 
+*  :octocat: [(github url)](https://github.com/Virbaca/Raviis2) 
+* Facebook
 * ... 
 
 
