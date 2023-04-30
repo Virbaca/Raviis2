@@ -87,6 +87,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * redes sociales: Facebook
 
+https://github.com/Virbaca/Raviis2/blob/1b6172f321e9d3e24c92f5d72516c9d38f27f25c/Captura%20de%20Tela%202023-04-30%20a%CC%80s%2018.55.51.png
 
 * publicidad: Campañas: Nuestra primera campaña para acercar al público objetivo será llamada "Conoce a alguien nuevo hoy". Utilizaremos las redes sociales asi como carteles por la ciudad para acercar al público a que haga descargas.
 ¿Aburrido/a de la rutina? Conoce a alguien nuevo hoy con nuestra aplicación.
