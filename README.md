@@ -28,7 +28,7 @@ ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 
 *  :octocat: [(github url)](https://github.com/Virbaca/Raviis2) 
-* Facebook
+* Facebook: https://www.facebook.com/profile.php?id=100091955033820
 * ... 
 
 
