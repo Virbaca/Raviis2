@@ -85,7 +85,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales: Instagram, Twitter, Tiktokk
+* redes sociales: Facebook
+
 
 * publicidad: Campañas: Nuestra primera campaña para acercar al público objetivo será llamada "Conoce a alguien nuevo hoy". Utilizaremos las redes sociales asi como carteles por la ciudad para acercar al público a que haga descargas.
 ¿Aburrido/a de la rutina? Conoce a alguien nuevo hoy con nuestra aplicación.
