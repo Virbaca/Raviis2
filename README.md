@@ -89,7 +89,12 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * publicidad: banner (... ) 
 
-* ...
+* Campañas: Nuestra primera campaña para acercar al público objetivo será llamada "Conoce a alguien nuevo hoy". Utilizaremos las redes sociales asi como carteles por la ciudad para acercar al público a que haga descargas.
+¿Aburrido/a de la rutina? Conoce a alguien nuevo hoy con nuestra aplicación.
+Descubre gente interesante cerca de ti y haz nuevos amigos.
+Encuentra a tu pareja ideal o simplemente disfruta de una conversación divertida.
+Descarga la aplicación y comienza a conocer gente hoy mismo.
+Realizaremos algunas colaboraciones con influencers o bloggers que puedan promocionar la aplicación en sus plataformas.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
